@@ -1,0 +1,6 @@
+,precision,recall,f1-score,support
+glioma,1.0,1.0,1.0,557.0
+notumor,1.0,1.0,1.0,644.0
+accuracy,1.0,1.0,1.0,1.0
+macro avg,1.0,1.0,1.0,1201.0
+weighted avg,1.0,1.0,1.0,1201.0
