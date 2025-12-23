@@ -10,6 +10,11 @@ requires-python = ">=3.10"
 package-mode = false
 license = {text = "MIT"}
 
-
 [tool.pdm]
 distribution = false
+
+[tool.poetry]
+name = "uap"
+version = "0.1.0"
+description = "Streamlit app"
+package-mode = false
