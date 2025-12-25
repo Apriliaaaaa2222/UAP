@@ -9,7 +9,7 @@ Penelitian ini melakukan studi komparatif terhadap tiga arsitektur model, yaitu 
 
 ## 📂 Dataset & Alur Pra-pemrosesan
 
-- **Sumber Dataset:** Kaggle – *MRI Brain Tumor*
+- **Sumber Dataset:** Kaggle – *MRI Brain Tumor* https://drive.google.com/drive/folders/1WGZcKeX6rHzUr8vC5aXkVvOfiPxhpxEz?usp=sharing
 - **Total Dataset:** 7.024 citra MRI
 - **Jumlah Kelas:** 4 kelas
 - **Pembagian Data:**
